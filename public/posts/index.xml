@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Davidul</title>
-    <link>davidul.github.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Davidul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="davidul.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graph Representation</title>
-      <link>davidul.github.io/posts/graphs/graph-representation/</link>
+      <link>/posts/graphs/graph-representation/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/graphs/graph-representation/</guid>
+      <guid>/posts/graphs/graph-representation/</guid>
       <description>Graph representation    Types of graph:
  Undirected graph Directed graph Weighted graph  Adjacency matrix    Adjacency matrix stores the edges in a matrix. Adjacency matrix for this graph would be
     0 1 2 3     0 0 1 0 1   1 1 0 1 1   2 0 1 0 0   3 1 1 0 0    This is undirected unweighted graph so we represent every edge by simple 1.</description>
@@ -20,74 +20,74 @@
     
     <item>
       <title>Breadth First Search</title>
-      <link>davidul.github.io/posts/graphs/bfs/</link>
+      <link>/posts/graphs/bfs/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/graphs/bfs/</guid>
+      <guid>/posts/graphs/bfs/</guid>
       <description>Breadth first search    Fundamental algorithm to search the tree or graph. It runs in O(V + E) time, where V is vertex and E is edge. Using intermediate memory to store the same level nodes. It also has to mark the nodes as visited.</description>
     </item>
     
     <item>
       <title>Depth First Search</title>
-      <link>davidul.github.io/posts/graphs/dfs/</link>
+      <link>/posts/graphs/dfs/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/graphs/dfs/</guid>
+      <guid>/posts/graphs/dfs/</guid>
       <description>#Depth first search</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide 2</title>
-      <link>davidul.github.io/posts/graphs-post/</link>
+      <link>/posts/graphs-post/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/graphs-post/</guid>
+      <guid>/posts/graphs-post/</guid>
       <description>Graphs    This is about graphs
 1 2 3 4  int i = 0; if( i &amp;lt; 0){  return; }   public class A {  private String x;   A(){  this.x = &amp;#34;&amp;#34;;  } } </description>
     </item>
     
     <item>
       <title>Union Find</title>
-      <link>davidul.github.io/posts/graphs/unionfind/</link>
+      <link>/posts/graphs/unionfind/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/graphs/unionfind/</guid>
+      <guid>/posts/graphs/unionfind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>davidul.github.io/posts/rich-content/</link>
+      <link>/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/rich-content/</guid>
+      <guid>/posts/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>More Rich Content</title>
-      <link>davidul.github.io/posts/more-rich-content/</link>
+      <link>/posts/more-rich-content/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/more-rich-content/</guid>
+      <guid>/posts/more-rich-content/</guid>
       <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>davidul.github.io/posts/placeholder-text/</link>
+      <link>/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/placeholder-text/</guid>
+      <guid>/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
-      <link>davidul.github.io/posts/math-typesetting/</link>
+      <link>/posts/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/math-typesetting/</guid>
+      <guid>/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
