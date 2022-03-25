@@ -14,6 +14,7 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
+draft = true
 +++
 
 

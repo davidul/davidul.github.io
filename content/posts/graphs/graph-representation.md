@@ -27,12 +27,14 @@ would be
 
 ![Example graph](../../slice1.png "graph")
 
+{{<table `table table-striped table-bordered`>}}
 | | 0 | 1 | 2 | 3 |
 |-|---|---|---|---|
 |0| 0 | 1 | 0 | 1 |
 |1| 1 | 0 | 1 | 1 |
 |2| 0 | 1 | 0 | 0 |
 |3| 1 | 1 | 0 | 0 |
+{{</table>}}
 
 This is undirected unweighted graph so we represent every edge by simple 1. Absence of the edge is 0.
 
