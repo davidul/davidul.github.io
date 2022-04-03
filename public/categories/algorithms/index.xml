@@ -19,6 +19,16 @@
     </item>
     
     <item>
+      <title>Project Reactor</title>
+      <link>/posts/project-reactor/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/project-reactor/</guid>
+      <description>Project reactor    Threading done in agnostic way. You don&amp;rsquo;t care about the underlying threading infrastructure.
+Create    </description>
+    </item>
+    
+    <item>
       <title>Breadth First Search</title>
       <link>/posts/graphs/bfs/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
