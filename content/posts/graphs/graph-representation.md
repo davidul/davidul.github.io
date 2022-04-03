@@ -38,6 +38,10 @@ would be
 
 This is undirected unweighted graph so we represent every edge by simple 1. Absence of the edge is 0.
 
+Space O(V^2) too much memory needed.
+
+Get all neighbors of a node you have to iterate over the whole row.
+
 ## Adjacency list
 
 Stores the edges as linked list. 
@@ -49,5 +53,15 @@ Stores the edges as linked list.
 3 | 0 -> 1
 ```
 
+The whole datastructure can be stored as list of lists, array of lists, hashmap of lists.
+
+## Edge list
+Edges E= {(0,1), (1,2) ...} unweighted
+Weighted edges add weight E = {(0,1,5), (1,2,4)}
+
+## Implicit graph
+
+Flood fill. It is a grid, you know (i,j) -> (i-1,j)(i+1,j)(i, j-1)(i,j+1)
 
 ## Incidence matrix
+

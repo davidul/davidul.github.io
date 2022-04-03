@@ -74,6 +74,23 @@ Negates the number bit by bit.
 
 Shift left `<<` , shift right `>>` 
 
+## Even or odd
+Even numbers end with 0 on last bit position, odd has 1 there. For example
+
+```
+0001 - 1
+0010 - 2
+0011 - 3
+0100 - 4
+0101 - 5
+```
+
+Simple code to check if number is odd or even
+
+```java
+return (n & 1) == 1; //true if odd
+```
+
 ## Check n-th bit
 
 ## Set n-th bit
