@@ -3,16 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>davidul.github.io/tags/algorithm/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>davidul.github.io/categories/algorithms/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/tags/binary/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/categories/binary/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/posts/binary-exponentiation/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>davidul.github.io/categories/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>davidul.github.io/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/posts/digital-root/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/tags/digital-root/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/categories/digital-root/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/tags/numbers/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/posts/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/posts/primes/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/tags/primes/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/categories/primes/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/tags/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/tags/bit/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/posts/bit-manipulation/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/categories/bit-manipulation/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/tags/manipulation/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/tags/heap/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/categories/heap/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/posts/priority-queue/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/tags/priority-queue/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/tags/queue/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/categories/queue/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>davidul.github.io/tags/graph/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
@@ -26,13 +92,19 @@
     <loc>davidul.github.io/categories/graphs/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>davidul.github.io/posts/</loc>
+    <loc>davidul.github.io/posts/project-reactor/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/series/reactive/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/tags/reactive/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>davidul.github.io/categories/reactive/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>davidul.github.io/series/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>davidul.github.io/tags/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>davidul.github.io/posts/graphs/bfs/</loc>
@@ -48,9 +120,6 @@
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>davidul.github.io/tags/markdown/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>davidul.github.io/posts/graphs-post/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>davidul.github.io/categories/syntax/</loc>

@@ -15,7 +15,7 @@
       <guid>davidul.github.io/posts/graphs/graph-representation/</guid>
       <description>Graph representation    Types of graph:
  Undirected graph Directed graph Weighted graph  Adjacency matrix    Adjacency matrix stores the edges in a matrix. Adjacency matrix for this graph would be
-    0 1 2 3     0 0 1 0 1   1 1 0 1 1   2 0 1 0 0   3 1 1 0 0    This is undirected unweighted graph so we represent every edge by simple 1.</description>
+   0 1 2 3     0 0 1 0 1   1 1 0 1 1   2 0 1 0 0   3 1 1 0 0    This is undirected unweighted graph so we represent every edge by simple 1.</description>
     </item>
     
     <item>
@@ -24,7 +24,8 @@
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>davidul.github.io/posts/graphs/bfs/</guid>
-      <description>Breadth first search    Fundamental algorithm to search the tree or graph. It runs in O(V + E) time, where V is vertex and E is edge. Using intermediate memory to store the same level nodes. It also has to mark the nodes as visited.</description>
+      <description>Breadth first search    Fundamental algorithm to search the tree or graph. It runs in O(V + E) time, where V is vertex and E is edge. Using intermediate memory to store the same level nodes. It also has to mark the nodes as visited.
+Level Order</description>
     </item>
     
     <item>

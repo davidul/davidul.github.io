@@ -6,7 +6,70 @@
     <description>Recent content on Davidul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="davidul.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="davidul.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Binary exponentiation</title>
+      <link>davidul.github.io/posts/binary-exponentiation/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/posts/binary-exponentiation/</guid>
+      <description>Exponents rules    $$ a^{m} \cdot a^{n} = a^{m+n} $$
+$$ \frac{a^{m}}{a^{n}} = a^{m-n} $$
+$$ (a^{m})^{n} = a^{m \cdot n} $$
+Binary exponentiation    Exponentiation means to multiply a b-times.
+$$ a \cdot a \cdot a = a^{b} $$
+Multiplying each term b-times will give O(b) complexity.
+Demonstrate binary exponentiation on
+$$ 2^{10} $$
+Lets write 10 in binary 1010. The corresponding bits will be used</description>
+    </item>
+    
+    <item>
+      <title>Digital root</title>
+      <link>davidul.github.io/posts/digital-root/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/posts/digital-root/</guid>
+      <description>Digital root    Digital root or digital sum of non-negative integer is the sum of digits in the number. The result is single digit number, for example
+$$ 256 = 2 + 5 + 6 = 13 = 1 + 3 = 4 $$
+Properties of digital root:
+ if we multiply any number by 9, the digital root will be always 9 adding 9 to a number does not change the digital root if we divide any number by 9 the remainder is the digital root  $$ 9 \equiv 0(\mod 9) $$</description>
+    </item>
+    
+    <item>
+      <title>Prime numbers</title>
+      <link>davidul.github.io/posts/primes/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/posts/primes/</guid>
+      <description>Prime numbers    Prime number is a number which is divisible by 1 and self. For example 7 is divisible only by 1 and 7. Brute force searching for prime number - try each number 2,3, &amp;hellip; N-1.</description>
+    </item>
+    
+    <item>
+      <title>Bit Manipulation</title>
+      <link>davidul.github.io/posts/bit-manipulation/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/posts/bit-manipulation/</guid>
+      <description>Bit manipulation    Bitwise logical operators    Bitwise AND (&amp;amp;)    Compares every bit of two numbers and applies AND operation to each of them. For example 5 (101b) and 3 (011b) will give 1.
+5 &amp;amp; 3 -&amp;gt; 1
+101 011 --- 001 6 &amp;amp; 5 -&amp;gt; 4
+110 101 --- 100 Bitwise OR (|)    Compares every bit of two numbers and applies OR operation to each of them.</description>
+    </item>
+    
+    <item>
+      <title>Priority queue</title>
+      <link>davidul.github.io/posts/priority-queue/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/posts/priority-queue/</guid>
+      <description>Priority queue    Priority queue is similar to normal queue or stack, except every element has a priority. Priority queue is usually implemented as heap.
+Heap    Heap is a tree data structure, it is almost complete binary tree. Common implementation of heap is the binary heap.
+left child 2i+1
+right child 2i+2
+parent i / 2 - 1</description>
+    </item>
+    
     <item>
       <title>Graph Representation</title>
       <link>davidul.github.io/posts/graphs/graph-representation/</link>
@@ -15,7 +78,16 @@
       <guid>davidul.github.io/posts/graphs/graph-representation/</guid>
       <description>Graph representation    Types of graph:
  Undirected graph Directed graph Weighted graph  Adjacency matrix    Adjacency matrix stores the edges in a matrix. Adjacency matrix for this graph would be
-    0 1 2 3     0 0 1 0 1   1 1 0 1 1   2 0 1 0 0   3 1 1 0 0    This is undirected unweighted graph so we represent every edge by simple 1.</description>
+   0 1 2 3     0 0 1 0 1   1 1 0 1 1   2 0 1 0 0   3 1 1 0 0    This is undirected unweighted graph so we represent every edge by simple 1.</description>
+    </item>
+    
+    <item>
+      <title>Project Reactor</title>
+      <link>davidul.github.io/posts/project-reactor/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/posts/project-reactor/</guid>
+      <description>Project reactor    Threading done in agnostic way. You don&amp;rsquo;t care about the underlying threading infrastructure.</description>
     </item>
     
     <item>
@@ -24,7 +96,8 @@
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>davidul.github.io/posts/graphs/bfs/</guid>
-      <description>Breadth first search    Fundamental algorithm to search the tree or graph. It runs in O(V + E) time, where V is vertex and E is edge. Using intermediate memory to store the same level nodes. It also has to mark the nodes as visited.</description>
+      <description>Breadth first search    Fundamental algorithm to search the tree or graph. It runs in O(V + E) time, where V is vertex and E is edge. Using intermediate memory to store the same level nodes. It also has to mark the nodes as visited.
+Level Order</description>
     </item>
     
     <item>
@@ -34,16 +107,6 @@
       
       <guid>davidul.github.io/posts/graphs/dfs/</guid>
       <description>#Depth first search</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide 2</title>
-      <link>davidul.github.io/posts/graphs-post/</link>
-      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>davidul.github.io/posts/graphs-post/</guid>
-      <description>Graphs    This is about graphs
-1 2 3 4  int i = 0; if( i &amp;lt; 0){  return; }   public class A {  private String x;   A(){  this.x = &amp;#34;&amp;#34;;  } } </description>
     </item>
     
     <item>
