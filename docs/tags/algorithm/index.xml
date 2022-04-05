@@ -2,47 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>algorithm on Davidul</title>
-    <link>/tags/algorithm/</link>
+    <link>davidul.github.io/tags/algorithm/</link>
     <description>Recent content in algorithm on Davidul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="davidul.github.io/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prime numbers</title>
+      <link>davidul.github.io/posts/primes/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/posts/primes/</guid>
+      <description>Prime numbers    Prime number is a number which is divisible by 1 and self. For example 7 is divisible only by 1 and 7. Brute force searching for prime number - try each number 2,3, &amp;hellip; N-1.</description>
+    </item>
+    
+    <item>
+      <title>Priority queue</title>
+      <link>davidul.github.io/posts/priority-queue/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/posts/priority-queue/</guid>
+      <description>Priority queue    Priority queue is similar to normal queue or stack, except every element has a priority. Priority queue is usually implemented as heap.
+Heap    Heap is a tree data structure, it is almost complete binary tree. Common implementation of heap is the binary heap.
+left child 2i+1
+right child 2i+2
+parent i / 2 - 1</description>
+    </item>
+    
     <item>
       <title>Graph Representation</title>
-      <link>/posts/graphs/graph-representation/</link>
+      <link>davidul.github.io/posts/graphs/graph-representation/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/graphs/graph-representation/</guid>
+      <guid>davidul.github.io/posts/graphs/graph-representation/</guid>
       <description>Graph representation    Types of graph:
  Undirected graph Directed graph Weighted graph  Adjacency matrix    Adjacency matrix stores the edges in a matrix. Adjacency matrix for this graph would be
-    0 1 2 3     0 0 1 0 1   1 1 0 1 1   2 0 1 0 0   3 1 1 0 0    This is undirected unweighted graph so we represent every edge by simple 1.</description>
+   0 1 2 3     0 0 1 0 1   1 1 0 1 1   2 0 1 0 0   3 1 1 0 0    This is undirected unweighted graph so we represent every edge by simple 1.</description>
     </item>
     
     <item>
       <title>Project Reactor</title>
-      <link>/posts/project-reactor/</link>
+      <link>davidul.github.io/posts/project-reactor/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/project-reactor/</guid>
-      <description>Project reactor    Threading done in agnostic way. You don&amp;rsquo;t care about the underlying threading infrastructure.
-Create    </description>
+      <guid>davidul.github.io/posts/project-reactor/</guid>
+      <description>Project reactor    Threading done in agnostic way. You don&amp;rsquo;t care about the underlying threading infrastructure.</description>
     </item>
     
     <item>
       <title>Breadth First Search</title>
-      <link>/posts/graphs/bfs/</link>
+      <link>davidul.github.io/posts/graphs/bfs/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/graphs/bfs/</guid>
-      <description>Breadth first search    Fundamental algorithm to search the tree or graph. It runs in O(V + E) time, where V is vertex and E is edge. Using intermediate memory to store the same level nodes. It also has to mark the nodes as visited.</description>
+      <guid>davidul.github.io/posts/graphs/bfs/</guid>
+      <description>Breadth first search    Fundamental algorithm to search the tree or graph. It runs in O(V + E) time, where V is vertex and E is edge. Using intermediate memory to store the same level nodes. It also has to mark the nodes as visited.
+Level Order</description>
     </item>
     
     <item>
       <title>Depth First Search</title>
-      <link>/posts/graphs/dfs/</link>
+      <link>davidul.github.io/posts/graphs/dfs/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/graphs/dfs/</guid>
+      <guid>davidul.github.io/posts/graphs/dfs/</guid>
       <description>#Depth first search</description>
     </item>
     

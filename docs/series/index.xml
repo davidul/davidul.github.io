@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Davidul</title>
-    <link>/series/</link>
+    <link>davidul.github.io/series/</link>
     <description>Recent content in Series on Davidul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="davidul.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graphs</title>
-      <link>/series/graphs/</link>
+      <link>davidul.github.io/series/graphs/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/series/graphs/</guid>
+      <guid>davidul.github.io/series/graphs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reactive</title>
-      <link>/series/reactive/</link>
+      <link>davidul.github.io/series/reactive/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/series/reactive/</guid>
+      <guid>davidul.github.io/series/reactive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes Guide</title>
-      <link>/series/themes-guide/</link>
+      <link>davidul.github.io/series/themes-guide/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/series/themes-guide/</guid>
+      <guid>davidul.github.io/series/themes-guide/</guid>
       <description></description>
     </item>
     

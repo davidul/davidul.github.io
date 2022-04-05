@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>primes on Davidul</title>
+    <link>davidul.github.io/tags/primes/</link>
+    <description>Recent content in primes on Davidul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="davidul.github.io/tags/primes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prime numbers</title>
+      <link>davidul.github.io/posts/primes/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/posts/primes/</guid>
+      <description>Prime numbers    Prime number is a number which is divisible by 1 and self. For example 7 is divisible only by 1 and 7. Brute force searching for prime number - try each number 2,3, &amp;hellip; N-1.</description>
+    </item>
+    
+  </channel>
+</rss>

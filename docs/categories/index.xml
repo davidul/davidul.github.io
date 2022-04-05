@@ -2,53 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Davidul</title>
-    <link>/categories/</link>
+    <link>davidul.github.io/categories/</link>
     <description>Recent content in Categories on Davidul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="davidul.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>algorithms</title>
-      <link>/categories/algorithms/</link>
-      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      <link>davidul.github.io/categories/algorithms/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/algorithms/</guid>
+      <guid>davidul.github.io/categories/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>binary</title>
+      <link>davidul.github.io/categories/binary/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/categories/binary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digital root</title>
+      <link>davidul.github.io/categories/digital-root/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/categories/digital-root/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>primes</title>
+      <link>davidul.github.io/categories/primes/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/categories/primes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bit manipulation</title>
+      <link>davidul.github.io/categories/bit-manipulation/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/categories/bit-manipulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heap</title>
+      <link>davidul.github.io/categories/heap/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/categories/heap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>queue</title>
+      <link>davidul.github.io/categories/queue/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>davidul.github.io/categories/queue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graphs</title>
-      <link>/categories/graphs/</link>
+      <link>davidul.github.io/categories/graphs/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/graphs/</guid>
+      <guid>davidul.github.io/categories/graphs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reactive</title>
-      <link>/categories/reactive/</link>
+      <link>davidul.github.io/categories/reactive/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/reactive/</guid>
+      <guid>davidul.github.io/categories/reactive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>/categories/syntax/</link>
+      <link>davidul.github.io/categories/syntax/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/syntax/</guid>
+      <guid>davidul.github.io/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>/categories/themes/</link>
+      <link>davidul.github.io/categories/themes/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/themes/</guid>
+      <guid>davidul.github.io/categories/themes/</guid>
       <description></description>
     </item>
     
