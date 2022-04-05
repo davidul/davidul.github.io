@@ -2,170 +2,170 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Davidul</title>
-    <link>davidul.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Davidul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="davidul.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>algorithm</title>
-      <link>davidul.github.io/tags/algorithm/</link>
+      <link>/tags/algorithm/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/algorithm/</guid>
+      <guid>/tags/algorithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>binary</title>
-      <link>davidul.github.io/tags/binary/</link>
+      <link>/tags/binary/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/binary/</guid>
+      <guid>/tags/binary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>digital root</title>
-      <link>davidul.github.io/tags/digital-root/</link>
+      <link>/tags/digital-root/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/digital-root/</guid>
+      <guid>/tags/digital-root/</guid>
       <description></description>
     </item>
     
     <item>
       <title>numbers</title>
-      <link>davidul.github.io/tags/numbers/</link>
+      <link>/tags/numbers/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/numbers/</guid>
+      <guid>/tags/numbers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>primes</title>
-      <link>davidul.github.io/tags/primes/</link>
+      <link>/tags/primes/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/primes/</guid>
+      <guid>/tags/primes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bit</title>
-      <link>davidul.github.io/tags/bit/</link>
+      <link>/tags/bit/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/bit/</guid>
+      <guid>/tags/bit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>manipulation</title>
-      <link>davidul.github.io/tags/manipulation/</link>
+      <link>/tags/manipulation/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/manipulation/</guid>
+      <guid>/tags/manipulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>heap</title>
-      <link>davidul.github.io/tags/heap/</link>
+      <link>/tags/heap/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/heap/</guid>
+      <guid>/tags/heap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>priority queue</title>
-      <link>davidul.github.io/tags/priority-queue/</link>
+      <link>/tags/priority-queue/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/priority-queue/</guid>
+      <guid>/tags/priority-queue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>queue</title>
-      <link>davidul.github.io/tags/queue/</link>
+      <link>/tags/queue/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/queue/</guid>
+      <guid>/tags/queue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graph</title>
-      <link>davidul.github.io/tags/graph/</link>
+      <link>/tags/graph/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/graph/</guid>
+      <guid>/tags/graph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reactive</title>
-      <link>davidul.github.io/tags/reactive/</link>
+      <link>/tags/reactive/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/reactive/</guid>
+      <guid>/tags/reactive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>davidul.github.io/tags/css/</link>
+      <link>/tags/css/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/css/</guid>
+      <guid>/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>davidul.github.io/tags/html/</link>
+      <link>/tags/html/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/html/</guid>
+      <guid>/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>davidul.github.io/tags/markdown/</link>
+      <link>/tags/markdown/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/markdown/</guid>
+      <guid>/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>davidul.github.io/tags/privacy/</link>
+      <link>/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/privacy/</guid>
+      <guid>/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>davidul.github.io/tags/shortcodes/</link>
+      <link>/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/shortcodes/</guid>
+      <guid>/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>davidul.github.io/tags/text/</link>
+      <link>/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/tags/text/</guid>
+      <guid>/tags/text/</guid>
       <description></description>
     </item>
     

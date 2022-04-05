@@ -2,107 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Davidul</title>
-    <link>davidul.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Davidul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="davidul.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>algorithms</title>
-      <link>davidul.github.io/categories/algorithms/</link>
+      <link>/categories/algorithms/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/categories/algorithms/</guid>
+      <guid>/categories/algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>binary</title>
-      <link>davidul.github.io/categories/binary/</link>
+      <link>/categories/binary/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/categories/binary/</guid>
+      <guid>/categories/binary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>digital root</title>
-      <link>davidul.github.io/categories/digital-root/</link>
+      <link>/categories/digital-root/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/categories/digital-root/</guid>
+      <guid>/categories/digital-root/</guid>
       <description></description>
     </item>
     
     <item>
       <title>primes</title>
-      <link>davidul.github.io/categories/primes/</link>
+      <link>/categories/primes/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/categories/primes/</guid>
+      <guid>/categories/primes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bit manipulation</title>
-      <link>davidul.github.io/categories/bit-manipulation/</link>
+      <link>/categories/bit-manipulation/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/categories/bit-manipulation/</guid>
+      <guid>/categories/bit-manipulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>heap</title>
-      <link>davidul.github.io/categories/heap/</link>
+      <link>/categories/heap/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/categories/heap/</guid>
+      <guid>/categories/heap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>queue</title>
-      <link>davidul.github.io/categories/queue/</link>
+      <link>/categories/queue/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/categories/queue/</guid>
+      <guid>/categories/queue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graphs</title>
-      <link>davidul.github.io/categories/graphs/</link>
+      <link>/categories/graphs/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/categories/graphs/</guid>
+      <guid>/categories/graphs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reactive</title>
-      <link>davidul.github.io/categories/reactive/</link>
+      <link>/categories/reactive/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/categories/reactive/</guid>
+      <guid>/categories/reactive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>davidul.github.io/categories/syntax/</link>
+      <link>/categories/syntax/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/categories/syntax/</guid>
+      <guid>/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>davidul.github.io/categories/themes/</link>
+      <link>/categories/themes/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/categories/themes/</guid>
+      <guid>/categories/themes/</guid>
       <description></description>
     </item>
     

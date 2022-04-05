@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>binary on Davidul</title>
-    <link>davidul.github.io/tags/binary/</link>
+    <link>/tags/binary/</link>
     <description>Recent content in binary on Davidul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="davidul.github.io/tags/binary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/binary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Binary exponentiation</title>
-      <link>davidul.github.io/posts/binary-exponentiation/</link>
+      <link>/posts/binary-exponentiation/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/binary-exponentiation/</guid>
+      <guid>/posts/binary-exponentiation/</guid>
       <description>Exponents rules    $$ a^{m} \cdot a^{n} = a^{m+n} $$
 $$ \frac{a^{m}}{a^{n}} = a^{m-n} $$
 $$ (a^{m})^{n} = a^{m \cdot n} $$
