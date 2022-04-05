@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Davidul</title>
-    <link>davidul.github.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Davidul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="davidul.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Binary exponentiation</title>
-      <link>davidul.github.io/posts/binary-exponentiation/</link>
+      <link>/posts/binary-exponentiation/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/binary-exponentiation/</guid>
+      <guid>/posts/binary-exponentiation/</guid>
       <description>Exponents rules    $$ a^{m} \cdot a^{n} = a^{m+n} $$
 $$ \frac{a^{m}}{a^{n}} = a^{m-n} $$
 $$ (a^{m})^{n} = a^{m \cdot n} $$
@@ -26,10 +26,10 @@ Lets write 10 in binary 1010. The corresponding bits will be used</description>
     
     <item>
       <title>Digital root</title>
-      <link>davidul.github.io/posts/digital-root/</link>
+      <link>/posts/digital-root/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/digital-root/</guid>
+      <guid>/posts/digital-root/</guid>
       <description>Digital root    Digital root or digital sum of non-negative integer is the sum of digits in the number. The result is single digit number, for example
 $$ 256 = 2 + 5 + 6 = 13 = 1 + 3 = 4 $$
 Properties of digital root:
@@ -38,19 +38,19 @@ Properties of digital root:
     
     <item>
       <title>Prime numbers</title>
-      <link>davidul.github.io/posts/primes/</link>
+      <link>/posts/primes/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/primes/</guid>
+      <guid>/posts/primes/</guid>
       <description>Prime numbers    Prime number is a number which is divisible by 1 and self. For example 7 is divisible only by 1 and 7. Brute force searching for prime number - try each number 2,3, &amp;hellip; N-1.</description>
     </item>
     
     <item>
       <title>Bit Manipulation</title>
-      <link>davidul.github.io/posts/bit-manipulation/</link>
+      <link>/posts/bit-manipulation/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/bit-manipulation/</guid>
+      <guid>/posts/bit-manipulation/</guid>
       <description>Bit manipulation    Bitwise logical operators    Bitwise AND (&amp;amp;)    Compares every bit of two numbers and applies AND operation to each of them. For example 5 (101b) and 3 (011b) will give 1.
 5 &amp;amp; 3 -&amp;gt; 1
 101 011 --- 001 6 &amp;amp; 5 -&amp;gt; 4
@@ -59,10 +59,10 @@ Properties of digital root:
     
     <item>
       <title>Priority queue</title>
-      <link>davidul.github.io/posts/priority-queue/</link>
+      <link>/posts/priority-queue/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/priority-queue/</guid>
+      <guid>/posts/priority-queue/</guid>
       <description>Priority queue    Priority queue is similar to normal queue or stack, except every element has a priority. Priority queue is usually implemented as heap.
 Heap    Heap is a tree data structure, it is almost complete binary tree. Common implementation of heap is the binary heap.
 left child 2i+1
@@ -72,10 +72,10 @@ parent i / 2 - 1</description>
     
     <item>
       <title>Graph Representation</title>
-      <link>davidul.github.io/posts/graphs/graph-representation/</link>
+      <link>/posts/graphs/graph-representation/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/graphs/graph-representation/</guid>
+      <guid>/posts/graphs/graph-representation/</guid>
       <description>Graph representation    Types of graph:
  Undirected graph Directed graph Weighted graph  Adjacency matrix    Adjacency matrix stores the edges in a matrix. Adjacency matrix for this graph would be
    0 1 2 3     0 0 1 0 1   1 1 0 1 1   2 0 1 0 0   3 1 1 0 0    This is undirected unweighted graph so we represent every edge by simple 1.</description>
@@ -83,74 +83,74 @@ parent i / 2 - 1</description>
     
     <item>
       <title>Project Reactor</title>
-      <link>davidul.github.io/posts/project-reactor/</link>
+      <link>/posts/project-reactor/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/project-reactor/</guid>
+      <guid>/posts/project-reactor/</guid>
       <description>Project reactor    Threading done in agnostic way. You don&amp;rsquo;t care about the underlying threading infrastructure.</description>
     </item>
     
     <item>
       <title>Breadth First Search</title>
-      <link>davidul.github.io/posts/graphs/bfs/</link>
+      <link>/posts/graphs/bfs/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/graphs/bfs/</guid>
+      <guid>/posts/graphs/bfs/</guid>
       <description>Breadth first search    Fundamental algorithm to search the tree or graph. It runs in O(V + E) time, where V is vertex and E is edge. Using intermediate memory to store the same level nodes. It also has to mark the nodes as visited.
 Level Order</description>
     </item>
     
     <item>
       <title>Depth First Search</title>
-      <link>davidul.github.io/posts/graphs/dfs/</link>
+      <link>/posts/graphs/dfs/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/graphs/dfs/</guid>
+      <guid>/posts/graphs/dfs/</guid>
       <description>#Depth first search</description>
     </item>
     
     <item>
       <title>Union Find</title>
-      <link>davidul.github.io/posts/graphs/unionfind/</link>
+      <link>/posts/graphs/unionfind/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/graphs/unionfind/</guid>
+      <guid>/posts/graphs/unionfind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>davidul.github.io/posts/rich-content/</link>
+      <link>/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/rich-content/</guid>
+      <guid>/posts/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>More Rich Content</title>
-      <link>davidul.github.io/posts/more-rich-content/</link>
+      <link>/posts/more-rich-content/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/more-rich-content/</guid>
+      <guid>/posts/more-rich-content/</guid>
       <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>davidul.github.io/posts/placeholder-text/</link>
+      <link>/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/placeholder-text/</guid>
+      <guid>/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
-      <link>davidul.github.io/posts/math-typesetting/</link>
+      <link>/posts/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/math-typesetting/</guid>
+      <guid>/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     

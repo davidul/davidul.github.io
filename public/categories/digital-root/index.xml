@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>digital root on Davidul</title>
-    <link>davidul.github.io/categories/digital-root/</link>
+    <link>/categories/digital-root/</link>
     <description>Recent content in digital root on Davidul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="davidul.github.io/categories/digital-root/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/digital-root/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital root</title>
-      <link>davidul.github.io/posts/digital-root/</link>
+      <link>/posts/digital-root/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>davidul.github.io/posts/digital-root/</guid>
+      <guid>/posts/digital-root/</guid>
       <description>Digital root    Digital root or digital sum of non-negative integer is the sum of digits in the number. The result is single digit number, for example
 $$ 256 = 2 + 5 + 6 = 13 = 1 + 3 = 4 $$
 Properties of digital root:
